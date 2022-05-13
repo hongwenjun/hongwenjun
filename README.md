@@ -1,3 +1,4 @@
+![hongwenjun GitHub stats](https://github-readme-stats.vercel.app/api?username=hongwenjun) <br />
 ✨ https://262235.xyz ✨ [个人博客通过Google_AdSense认证终于不赔钱了](https://262235.xyz/index.php/archives/917/)
 
 - 🔭 [爬虫WebAPI版: 批量网址转Markdown](https://262235.xyz/getmd)
